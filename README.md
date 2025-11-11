@@ -13,4 +13,4 @@ This repo includes examples, notes, and small projects built while exploring the
 ## 🚀 How to Run
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/nestjs-learning.git
+   git clone https://github.com/SajidMohmand/nestjs-learning.git
